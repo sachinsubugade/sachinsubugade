@@ -1,2 +1,2 @@
 # profile_data
-<figure><embed src="https://wakatime.com/share/@sachinsubugade/8f6897a2-49e8-40e3-bc1d-a4a532dc427a.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@sachinsubugade/ffb5abf2-fbc4-423e-be72-1148ca6176ee.png" /></a>
